@@ -5,9 +5,9 @@
  * @Version 1.0 September 25, 2023
  */
 
-public class System {
+public class TicketingSystem {
 
-    public System()
+    public TicketingSystem()
     {
         //Do we need a constructor for this class?
     }
