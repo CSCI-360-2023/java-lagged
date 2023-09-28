@@ -11,7 +11,9 @@ public class User
     private String username;
     private String password;
     private String cardNumber; //May be changed to int depending on how we read and store card numbers
-
+    
+    //private boolean isStudent; to determine if the user is a student (gets access to student discount?). Must be verified by cofc somehow??
+    
     /**
      * User Constructor Object
      * @param userName stores account username
